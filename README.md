@@ -27,7 +27,7 @@ JWT_SECRET=your-secret-key
 FRONTEND_URL=http://localhost:3000
 \`\`\`
 
-Frontend `.env.local`:
+Frontend `.env`:
 \`\`\`
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
 \`\`\`
